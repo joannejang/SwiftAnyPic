@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		61759D05529651EC03AFDE93 /* Pods_SwiftAnyPic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 396F1F06786D6995A9901EE0 /* Pods_SwiftAnyPic.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		61759D05529651EC03AFDE93 /* Pods_SwiftAnyPic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 396F1F06786D6995A9901EE0 /* Pods_SwiftAnyPic.framework */; };
 		C81E05401B73AC79004E781D /* PAPSettingsButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81E053F1B73AC79004E781D /* PAPSettingsButtonItem.swift */; };
 		C81E05431B73B6F2004E781D /* PAPFindFriendsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81E05421B73B6F2004E781D /* PAPFindFriendsViewController.swift */; };
 		C81E05451B73B923004E781D /* PAPFindFriendsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81E05441B73B923004E781D /* PAPFindFriendsCell.swift */; };
